@@ -1,4 +1,4 @@
-# wallet-admin
+# electron-vue-admin
 
 > An electron-vue project
 
